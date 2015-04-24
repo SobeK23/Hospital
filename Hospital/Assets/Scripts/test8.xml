@@ -1,0 +1,12 @@
+<test id="Question">Premises: Most teachers are boys. Some boys are students</test>
+<test id="Question2">Conclusions: I: Some students are boys</test>
+<test id="Question3">II: Some teachers are students</test>
+<test id="Answer1">Only I follows </test>
+<test id="Answer2">Only II follows</test>
+<test id="Answer3">Both I and II follow </test>
+<test id="Answer4">Neither I nor II follows</test>
+<test id="CorrectAnswer">Only I follows</test>
+<test id="Explication1">Both premises are particular, no definite conclusion follows: </test>
+<test id="Explication2">I is the converse of the second premise and thus it follows</test>
+<test id="Explication3"></test>
+<case id="end">End

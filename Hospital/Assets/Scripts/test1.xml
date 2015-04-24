@@ -1,0 +1,12 @@
+<test id="Question">What number should follow this serie?</test>
+<test id="Question2">1, 1, 2, 3, 5, 8</test>
+<test id="Question3"></test>
+<test id="Answer1">11</test>
+<test id="Answer2">13</test>
+<test id="Answer3">12</test>
+<test id="Answer4">15</test>
+<test id="CorrectAnswer">13</test>
+<test id="Explication1">It is fibonacci serie,</test>
+<test id="Explication2">you should add the two last numbers.</test>
+<test id="Explication3"></test>
+<case id="end">End

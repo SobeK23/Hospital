@@ -1,0 +1,12 @@
+<test id="Question">Field the blank</test>
+<test id="Question2">QAR, RAS, SAT, TAU, ___</test>
+<test id="Question3"></test>
+<test id="Answer1">UAV</test>
+<test id="Answer2">UAT</test>
+<test id="Answer3">TAS</test>
+<test id="Answer4">TAT</test>
+<test id="CorrectAnswer">UAV</test>
+<test id="Explication1">The third letter is repeated as the first letter of the next segment.</test>
+<test id="Explication2">The middle letter A remains static. </test>
+<test id="Explication3">The third letter are in alphabetical order beginning with R.</test>
+<case id="end">End

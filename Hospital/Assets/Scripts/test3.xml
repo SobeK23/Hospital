@@ -1,0 +1,12 @@
+<test id="Question">Look at this series: </test>
+<test id="Question2">F2, ___ , D8, C16, B32</test>
+<test id="Question3">What number should field the blank?</test>
+<test id="Answer1">A16</test>
+<test id="Answer2">G4</test>
+<test id="Answer3">E4</test>
+<test id="Answer4">E3</test>
+<test id="CorrectAnswer">E4</test>
+<test id="Explication1">The letters decrease by 1,</test>
+<test id="Explication2">the numbers are multiplied by 2.</test>
+<test id="Explication3"></test>
+<case id="end">End

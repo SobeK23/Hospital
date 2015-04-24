@@ -1,0 +1,12 @@
+<test id="Question">At the baseball game, Henry was sitting in seat 253. Marla was sitting to the right of Henry in seat 254.</test>
+<test id="Question2">In the seat to the left of Henry was George. Inez was sitting to the left of George.</test>
+<test id="Question3">Which seat is Inez sitting in?</test>
+<test id="Answer1">251</test>
+<test id="Answer2">254</test>
+<test id="Answer3">255</test>
+<test id="Answer4">256</test>
+<test id="CorrectAnswer">251</test>
+<test id="Explication1">If George is sitting at Henry's left, George's seat is 252. </test>
+<test id="Explication2">The next seat to the left, then, is 251.</test>
+<test id="Explication3"></test>
+<case id="end">End

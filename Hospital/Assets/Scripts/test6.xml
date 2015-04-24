@@ -1,0 +1,12 @@
+<test id="Question">Tanya is older than Eric.</test>
+<test id="Question2">Cliff is older than Tanya.</test>
+<test id="Question3">if the first statements are True, which one is true? </test>
+<test id="Answer1">Eric is younger than Cliff</test>
+<test id="Answer2">Eric has the same age as Cliff</test>
+<test id="Answer3">Uncertain</test>
+<test id="Answer4">Eric is older than Cliff</test>
+<test id="CorrectAnswer">Eric is younger than Cliff</test>
+<test id="Explication1">Eric is the youngest of the three so the first answer must be true</test>
+<test id="Explication2"></test>
+<test id="Explication3"></test>
+<case id="end">End

@@ -1,0 +1,12 @@
+<test id="Question">Look at this series, what numbers should come next? </test>
+<test id="Question2">42, 40, 38, 35, 33, 31, 28 </test>
+<test id="Question3"></test>
+<test id="Answer1">25, 22</test>
+<test id="Answer2">26, 22</test>
+<test id="Answer3">26, 24</test>
+<test id="Answer4">25, 23</test>
+<test id="CorrectAnswer">26, 24</test>
+<test id="Explication1">This is an alternating subtraction series in which 2.</test>
+<test id="Explication2">Is subtracted twice, then 3 is subtracted once,</test>
+<test id="Explication3">and so on.</test>
+<case id="end">End

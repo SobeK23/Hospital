@@ -1,0 +1,12 @@
+<test id="Question"></test>
+<test id="Question2"></test>
+<test id="Question3"></test>
+<test id="Answer1"></test>
+<test id="Answer2"></test>
+<test id="Answer3"></test>
+<test id="Answer4"></test>
+<test id="CorrectAnswer"></test>
+<test id="Explication1"></test>
+<test id="Explication2"></test>
+<test id="Explication3"></test>
+<case id="end">End
